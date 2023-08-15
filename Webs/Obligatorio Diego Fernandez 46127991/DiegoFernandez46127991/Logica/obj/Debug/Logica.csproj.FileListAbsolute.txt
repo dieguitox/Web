@@ -1,0 +1,27 @@
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\Logica\obj\Debug\Logica.pdb
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\bin\Debug\Logica.dll
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\bin\Debug\Logica.pdb
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\bin\Debug\Persistencia.dll
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\bin\Debug\Persistencia.pdb
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\obj\Debug\Logica.dll
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\Logica\obj\Debug\Logica.pdb
