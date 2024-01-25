@@ -1,0 +1,18 @@
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\DiegoFernandez46127991\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\Obligatorio\DiegoFernandez46127991\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Obligatorios\Web\Obligatorio Diego Fernandez 46127991\DiegoFernandez46127991\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Web\Proyecto\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Web\Proyecto\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Web\Proyecto\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Web\Proyecto\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

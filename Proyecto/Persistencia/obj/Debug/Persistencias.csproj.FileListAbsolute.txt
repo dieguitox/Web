@@ -1,0 +1,4 @@
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Web\Proyecto\Persistencias\bin\Debug\Persistencias.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Web\Proyecto\Persistencias\bin\Debug\Persistencias.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Web\Proyecto\Persistencias\obj\Debug\Persistencias.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Web\Proyecto\Persistencias\obj\Debug\Persistencias.pdb
